@@ -21,6 +21,7 @@ obj-$(CONFIG_USB_GSPCA) += gspca/
 obj-$(CONFIG_USB_HACKRF) += hackrf/
 obj-$(CONFIG_USB_MSI2500) += msi2500/
 obj-$(CONFIG_USB_PWC) += pwc/
+obj-$(CONFIG_USB_USEEPLUS) += useeplus/
 obj-$(CONFIG_USB_VIDEO_CLASS) += uvc/
 obj-$(CONFIG_VIDEO_AU0828) += au0828/
 obj-$(CONFIG_VIDEO_CX231XX) += cx231xx/
