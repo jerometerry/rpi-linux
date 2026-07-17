@@ -21,7 +21,7 @@
 #define VIDEO_QUEUE_NAME "useeplus-queue"
 #define VIDEO_DEVICE_NAME "useeplus-video"
 
-#define MIN_VB2_REQ_BUFS 2
+#define MIN_VB2_REQ_BUFS 4
 #define NUM_URBS 16
 #define URB_SIZE (32 * 1024)
 #define MAX_FRAME_SIZE (256 * 1024)
